@@ -1,7 +1,8 @@
 body{
-    background-color: #dddddd;
+    background-color: #000000;
     text-align: center;
 }
+
 
 .box{
     background-color: #222831;
@@ -17,6 +18,101 @@ body{
 
 .logo{
     color: #f05454;
+    position: relative;
+    top: 70px;
+    transform: rotate(175deg);
+
+}
+.box1{
+    background-color: #dddddd;
+    margin: 100px;
+    width: 300px;
+    height: 300px;
+    border-radius: 25px;
+    box-shadow: 
+    inset 0 -3em 3em rgba(0,0,0,0.1),
+             0 0  0 10px rgb(255,255,255),
+             0.3em 0.3em 1em rgba(0,0,0,0.3);
+}
+
+.logo1{
+    color: #30475e;
+    position: relative;
+    top: 70px;
+    transform: rotate(175deg);
+
+}
+.box2{
+    background-color: #30475e;
+    margin: 100px;
+    width: 300px;
+    height: 300px;
+    border-radius: 25px;
+    box-shadow: 
+    inset 0 -3em 3em rgba(0,0,0,0.1),
+             0 0  0 10px rgb(255,255,255),
+             0.3em 0.3em 1em rgba(0,0,0,0.3);
+}
+
+.logo2{
+    color: #f05454;
+    position: relative;
+    top: 70px;
+    transform: rotate(175deg);
+
+}
+.box3{
+    background-color: #30475e;
+    margin: 100px;
+    width: 300px;
+    height: 300px;
+    border-radius: 25px;
+    box-shadow: 
+    inset 0 -3em 3em rgba(0,0,0,0.1),
+             0 0  0 10px rgb(255,255,255),
+             0.3em 0.3em 1em rgba(0,0,0,0.3);
+}
+
+.logo3{
+    color: #000000;
+    position: relative;
+    top: 70px;
+    transform: rotate(175deg);
+
+}
+.box4{
+    background-color: #f05454;
+    margin: 100px;
+    width: 300px;
+    height: 300px;
+    border-radius: 25px;
+    box-shadow: 
+    inset 0 -3em 3em rgba(0,0,0,0.1),
+             0 0  0 10px rgb(255,255,255),
+             0.3em 0.3em 1em rgba(0,0,0,0.3);
+}
+
+.logo4{
+    color: #000000;
+    position: relative;
+    top: 70px;
+    transform: rotate(175deg);
+
+}
+.box5{
+    background-color: #dddddd;
+    margin: 100px;
+    width: 300px;
+    height: 300px;
+    border-radius: 25px;
+    box-shadow: 
+    inset 0 -3em 3em rgba(0,0,0,0.1),
+             0 0  0 10px rgb(255,255,255),
+             0.3em 0.3em 1em rgba(0,0,0,0.3);
+}
+
+.logo5{
+    color: #000000;
     position: relative;
     top: 70px;
     transform: rotate(175deg);
